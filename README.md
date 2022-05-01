@@ -1,2 +1,2 @@
 # Wind-turbine-simulation
- Simulation of a wind turbine's site production, simple
+ Simulation of a wind turbines' site production, with a matrix related wind's speed.

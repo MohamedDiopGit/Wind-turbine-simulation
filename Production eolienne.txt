@@ -1,0 +1,3 @@
+Day | Speed_State | Daily_production | Total_Production
+1 1 8.00 8.00
+2 2 13.00 21.00
